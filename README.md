@@ -2,6 +2,9 @@
 
 Badges to show your love for Open Source and the Community.
 
+### Language badges
+[![Nim language](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/Nim/Nim-lang.svg)](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/Nim/Nim-lang.svg)
+
 ### OpenSource Badges
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)  [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
