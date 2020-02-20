@@ -11,7 +11,7 @@
   </g>
   <g font-family="DejaVu Sans,Verdana,Geneva,sans-serif">
     <g font-size="12" fill="#282a36">
-      <image x="2" y="2" width="15" height="15" src="./logo-crown.png" />
+      <image x="2" y="2" width="15" height="15" xlink:href="../logo-crown.png" />
       <text x="18" y="14" fill="#DDD">Programming language:</text>
     </g>
     <g font-size="12" fill="#282a36">
