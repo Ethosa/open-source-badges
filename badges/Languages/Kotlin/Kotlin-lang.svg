@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="24">
+  <linearGradient id="m1" x2="0" y2="100%">
+    <stop offset="0" stop-color="#212121" stop-opacity="0"/>
+    <stop offset="1" stop-opacity="0"/>
+  </linearGradient>
+  <g mask="url(#m1)">
+    <rect x="0" y="0"  width="190" height="24" rx="4" ry="4"  style="fill:#282A36"/>
+    <rect x="175" y="0" width="35" height="24" style="fill:#8be9fd"/>
+    <rect x="205" y="0" width="20" height="24" rx="4" ry="4" style="fill:#8be9fd"/>
+    <path fill="url(#m1)" d="M0 0h224v24H0z"/>
+  </g>
+  <g font-family="DejaVu Sans,Verdana,Geneva,sans-serif">
+    <g font-size="12" fill="#282a36">
+      <text x="30" y="16" fill="#ddd">Programming language:</text>
+    </g>
+    <g font-size="12" fill="#282a36">
+      <text x="180" y="16" fill="#333">Kotlin</text>
+    </g>
+  </g>
+  <svg fill="#8be9fd" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Kotlin icon</title><path d="M1.3 24l11.3-11.5L24 24zM0 0h12L0 12.5zM13.4 0L0 14v10l12-12L24 0z"/></svg>
+
+</svg>
