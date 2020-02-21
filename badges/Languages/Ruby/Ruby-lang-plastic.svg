@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="24">
+  <linearGradient id="m1" x2="0" y2="100%">
+    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <g mask="url(#m1)">
+    <rect x="0" y="0"  width="190" height="24" rx="4" ry="4"  style="fill:#282A36"/>
+    <rect x="175" y="0" width="35" height="24" style="fill:#ff5252"/>
+    <rect x="205" y="0" width="20" height="24" rx="4" ry="4" style="fill:#ff5252"/>
+    <path fill="url(#m1)" d="M0 0h224v24H0z"/>
+  </g>
+  <g font-family="DejaVu Sans,Verdana,Geneva,sans-serif">
+    <g font-size="12" fill="#282a36">
+      <text x="30" y="16" fill="#333">Programming language:</text>
+    </g>
+    <g font-size="12" fill="#282a36">
+      <text x="180" y="16" fill="#333">Ruby</text>
+    </g>
+  </g>
+  <svg fill="#ff5252" role="img" viewBox="0 0 222 24" xmlns="http://www.w3.org/2000/svg"><title>Ruby icon</title><path d="M20.156.083c3.033.525 3.893 2.598 3.829 4.77L24 4.822 22.635 22.71 4.89 23.926h.016C3.433 23.864.15 23.729 0 19.139l1.645-3 2.819 6.586.503 1.172 2.805-9.144-.03.007.016-.03 9.255 2.956-1.396-5.431-.99-3.9 8.82-.569-.615-.51L16.5 2.114 20.159.073l-.003.01zM0 19.089v.026-.029.003zM5.13 5.073c3.561-3.533 8.157-5.621 9.922-3.84 1.762 1.777-.105 6.105-3.673 9.636-3.563 3.532-8.103 5.734-9.864 3.957-1.766-1.777.045-6.217 3.612-9.75l.003-.003z"/></svg>
+
+</svg>
