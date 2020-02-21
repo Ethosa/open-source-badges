@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="220" height="20">
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="20">
   <linearGradient id="m1" x2="0" y2="100%">
     <stop offset="0" stop-color="#212121" stop-opacity="0"/>
     <stop offset="1" stop-opacity="0"/>
@@ -18,5 +18,5 @@
     </g>
   </g>
   <image x="2" y="2" width="15" height="15"
-   xlink:href="https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/Nim/nim.svg"/>
+   href="https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/Nim/nim.svg"/>
 </svg>
