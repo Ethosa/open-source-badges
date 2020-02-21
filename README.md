@@ -2,9 +2,7 @@
 
 Badges to show your love for Open Source and the Community.
 
-<h3 align="center">Language badges</h3>
-<div align="center">
-
+### Language badges
 | Flat | Plastic |
 | :--: | :--:    |
 [![Nim language](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/Nim/Nim-lang.svg)](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/Nim/Nim-lang.svg) | [![Nim language-plastic](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/Nim/Nim-lang-plastic.svg)](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/Nim/Nim-lang-plastic.svg)  
@@ -15,8 +13,6 @@ Badges to show your love for Open Source and the Community.
 [![C language](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/C/C-lang.svg)](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/C/C-lang.svg) | [![C language-plastic](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/C/C-lang-plastic.svg)](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/C/C-lang-plastic.svg)  
 [![C# language](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/CSharp/CSharp-lang.svg)](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/CSharp/CSharp-lang.svg) | [![C language-plastic](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/CSharp/CSharp-lang-plastic.svg)](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/CSharp/CSharp-lang-plastic.svg)  
 [![JS language](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/JS/JS-lang.svg)](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/JS/JS-lang.svg) | [![JS language-plastic](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/JS/JS-lang-plastic.svg)](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/JS/JS-lang-plastic.svg)
-
-</div>
 
 ### OpenSource Badges
 
