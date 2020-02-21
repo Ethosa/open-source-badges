@@ -6,7 +6,9 @@ Badges to show your love for Open Source and the Community.
 [![Nim language](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/Nim/Nim-lang.svg)](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/Nim/Nim-lang.svg)  
 [![Rust language](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/Rust/Rust-lang.svg)](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/Rust/Rust-lang.svg)  
 [![C++ language](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/Cpp/Cpp-lang.svg)](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/Cpp/Cpp-lang.svg)  
-[![C++ language](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/Python/Python-lang.svg)](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/Python/Python-lang.svg)
+[![Python language](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/Python/Python-lang.svg)](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/Python/Python-lang.svg)  
+[![Java language](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/Java/Java-lang.svg)](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/Java/Java-lang.svg)  
+[![C language](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/C/C-lang.svg)](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/C/C-lang.svg)
 
 ### OpenSource Badges
 
