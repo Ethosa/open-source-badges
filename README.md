@@ -3,7 +3,8 @@
 Badges to show your love for Open Source and the Community.
 
 ### Language badges
-[![Nim language](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/Nim/Nim-lang.svg)](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/Nim/Nim-lang.svg)
+[![Nim language](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/Nim/Nim-lang.svg)](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/Nim/Nim-lang.svg)  
+[![Rust language](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/Rust/Rust-lang.svg)](https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/Rust/Rust-lang.svg)
 
 ### OpenSource Badges
 
