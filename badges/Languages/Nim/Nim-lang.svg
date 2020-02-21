@@ -10,8 +10,6 @@
     <path fill="url(#m1)" d="M0 0h220v20H0z"/>
   </g>
   <g font-family="DejaVu Sans,Verdana,Geneva,sans-serif">
-    <image x="2" y="2" width="15" height="15"
-     xlink:href="https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/Nim/nim.svg"/>
     <g font-size="12" fill="#282a36">
       <text x="18" y="14" fill="#DDD">Programming language:</text>
     </g>
@@ -19,4 +17,6 @@
       <text x="168" y="14" fill="#DDD">Nim</text>
     </g>
   </g>
+  <image x="2" y="2" width="15" height="15"
+   xlink:href="https://github.com/Ethosa/open-source-badges/blob/master/badges/Languages/Nim/nim.svg"/>
 </svg>
