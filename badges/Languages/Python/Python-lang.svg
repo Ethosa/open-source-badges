@@ -11,7 +11,7 @@
   </g>
   <g font-family="DejaVu Sans,Verdana,Geneva,sans-serif">
     <g font-size="12" fill="#282a36">
-      <text x="28" y="16" fill="#DDD">Programming language:</text>
+      <text x="30" y="16" fill="#DDD">Programming language:</text>
     </g>
     <g font-size="12" fill="#282a36">
       <text x="180" y="16" fill="#333">Python</text>
